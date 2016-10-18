@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: 709416044d54a874db0e117e30a60d17
+timeCreated: 1475782072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Female_Ctrl_ChestEndEffector
+    100002: Female_Ctrl_ChestOriginEffector
+    100004: Female_Ctrl_Head
+    100006: Female_Ctrl_HeadEffector
+    100008: Female_Ctrl_Hips
+    100010: Female_Ctrl_HipsEffector
+    100012: Female_Ctrl_LeftAnkleEffector
+    100014: Female_Ctrl_LeftArm
+    100016: Female_Ctrl_LeftElbowEffector
+    100018: Female_Ctrl_LeftFoot
+    100020: Female_Ctrl_LeftFootEffector
+    100022: Female_Ctrl_LeftForeArm
+    100024: Female_Ctrl_LeftHand
+    100026: Female_Ctrl_LeftHandIndex1
+    100028: Female_Ctrl_LeftHandIndex2
+    100030: Female_Ctrl_LeftHandIndex3
+    100032: Female_Ctrl_LeftHandIndex4
+    100034: Female_Ctrl_LeftHandIndexEffector
+    100036: Female_Ctrl_LeftHandMiddle1
+    100038: Female_Ctrl_LeftHandMiddle2
+    100040: Female_Ctrl_LeftHandMiddle3
+    100042: Female_Ctrl_LeftHandMiddle4
+    100044: Female_Ctrl_LeftHandMiddleEffector
+    100046: Female_Ctrl_LeftHandPinky1
+    100048: Female_Ctrl_LeftHandPinky2
+    100050: Female_Ctrl_LeftHandPinky3
+    100052: Female_Ctrl_LeftHandPinky4
+    100054: Female_Ctrl_LeftHandPinkyEffector
+    100056: Female_Ctrl_LeftHandRing1
+    100058: Female_Ctrl_LeftHandRing2
+    100060: Female_Ctrl_LeftHandRing3
+    100062: Female_Ctrl_LeftHandRing4
+    100064: Female_Ctrl_LeftHandRingEffector
+    100066: Female_Ctrl_LeftHandThumb1
+    100068: Female_Ctrl_LeftHandThumb2
+    100070: Female_Ctrl_LeftHandThumb3
+    100072: Female_Ctrl_LeftHandThumb4
+    100074: Female_Ctrl_LeftHandThumbEffector
+    100076: Female_Ctrl_LeftHipEffector
+    100078: Female_Ctrl_LeftKneeEffector
+    100080: Female_Ctrl_LeftLeg
+    100082: Female_Ctrl_LeftShoulder
+    100084: Female_Ctrl_LeftShoulderEffector
+    100086: Female_Ctrl_LeftToeBase
+    100088: Female_Ctrl_LeftUpLeg
+    100090: Female_Ctrl_LeftWristEffector
+    100092: Female_Ctrl_Neck
+    100094: Female_Ctrl_Reference
+    100096: Female_Ctrl_RightAnkleEffector
+    100098: Female_Ctrl_RightArm
+    100100: Female_Ctrl_RightElbowEffector
+    100102: Female_Ctrl_RightFoot
+    100104: Female_Ctrl_RightFootEffector
+    100106: Female_Ctrl_RightForeArm
+    100108: Female_Ctrl_RightHand
+    100110: Female_Ctrl_RightHandIndex1
+    100112: Female_Ctrl_RightHandIndex2
+    100114: Female_Ctrl_RightHandIndex3
+    100116: Female_Ctrl_RightHandIndex4
+    100118: Female_Ctrl_RightHandIndexEffector
+    100120: Female_Ctrl_RightHandMiddle1
+    100122: Female_Ctrl_RightHandMiddle2
+    100124: Female_Ctrl_RightHandMiddle3
+    100126: Female_Ctrl_RightHandMiddle4
+    100128: Female_Ctrl_RightHandMiddleEffector
+    100130: Female_Ctrl_RightHandPinky1
+    100132: Female_Ctrl_RightHandPinky2
+    100134: Female_Ctrl_RightHandPinky3
+    100136: Female_Ctrl_RightHandPinky4
+    100138: Female_Ctrl_RightHandPinkyEffector
+    100140: Female_Ctrl_RightHandRing1
+    100142: Female_Ctrl_RightHandRing2
+    100144: Female_Ctrl_RightHandRing3
+    100146: Female_Ctrl_RightHandRing4
+    100148: Female_Ctrl_RightHandRingEffector
+    100150: Female_Ctrl_RightHandThumb1
+    100152: Female_Ctrl_RightHandThumb2
+    100154: Female_Ctrl_RightHandThumb3
+    100156: Female_Ctrl_RightHandThumb4
+    100158: Female_Ctrl_RightHandThumbEffector
+    100160: Female_Ctrl_RightHipEffector
+    100162: Female_Ctrl_RightKneeEffector
+    100164: Female_Ctrl_RightLeg
+    100166: Female_Ctrl_RightShoulder
+    100168: Female_Ctrl_RightShoulderEffector
+    100170: Female_Ctrl_RightToeBase
+    100172: Female_Ctrl_RightUpLeg
+    100174: Female_Ctrl_RightWristEffector
+    100176: Female_Ctrl_Spine
+    100178: Female_Ctrl_Spine1
+    100180: Female_Ctrl_Spine2
+    100182: //RootNode
+    100184: Female_Head
+    100186: Female_Hips
+    100188: Female_LeftArm
+    100190: Female_LeftFoot
+    100192: Female_LeftForeArm
+    100194: Female_LeftHand
+    100196: Female_LeftHandIndex1
+    100198: Female_LeftHandIndex2
+    100200: Female_LeftHandIndex3
+    100202: Female_LeftHandIndex4
+    100204: Female_LeftHandMiddle1
+    100206: Female_LeftHandMiddle2
+    100208: Female_LeftHandMiddle3
+    100210: Female_LeftHandMiddle4
+    100212: Female_LeftHandPinky1
+    100214: Female_LeftHandPinky2
+    100216: Female_LeftHandPinky3
+    100218: Female_LeftHandPinky4
+    100220: Female_LeftHandRing1
+    100222: Female_LeftHandRing2
+    100224: Female_LeftHandRing3
+    100226: Female_LeftHandRing4
+    100228: Female_LeftHandThumb1
+    100230: Female_LeftHandThumb2
+    100232: Female_LeftHandThumb3
+    100234: Female_LeftHandThumb4
+    100236: Female_LeftLeg
+    100238: Female_LeftShoulder
+    100240: Female_LeftToeBase
+    100242: Female_LeftUpLeg
+    100244: Female_Neck
+    100246: Female_Reference
+    100248: Female_RightArm
+    100250: Female_RightFoot
+    100252: Female_RightForeArm
+    100254: Female_RightHand
+    100256: Female_RightHandIndex1
+    100258: Female_RightHandIndex2
+    100260: Female_RightHandIndex3
+    100262: Female_RightHandIndex4
+    100264: Female_RightHandMiddle1
+    100266: Female_RightHandMiddle2
+    100268: Female_RightHandMiddle3
+    100270: Female_RightHandMiddle4
+    100272: Female_RightHandPinky1
+    100274: Female_RightHandPinky2
+    100276: Female_RightHandPinky3
+    100278: Female_RightHandPinky4
+    100280: Female_RightHandRing1
+    100282: Female_RightHandRing2
+    100284: Female_RightHandRing3
+    100286: Female_RightHandRing4
+    100288: Female_RightHandThumb1
+    100290: Female_RightHandThumb2
+    100292: Female_RightHandThumb3
+    100294: Female_RightHandThumb4
+    100296: Female_RightLeg
+    100298: Female_RightShoulder
+    100300: Female_RightToeBase
+    100302: Female_RightUpLeg
+    100304: Female_Spine
+    100306: Female_Spine1
+    100308: Female_Spine2
+    100310: Hair
+    100312: Head
+    100314: Legs
+    100316: Torso
+    400000: Female_Ctrl_ChestEndEffector
+    400002: Female_Ctrl_ChestOriginEffector
+    400004: Female_Ctrl_Head
+    400006: Female_Ctrl_HeadEffector
+    400008: Female_Ctrl_Hips
+    400010: Female_Ctrl_HipsEffector
+    400012: Female_Ctrl_LeftAnkleEffector
+    400014: Female_Ctrl_LeftArm
+    400016: Female_Ctrl_LeftElbowEffector
+    400018: Female_Ctrl_LeftFoot
+    400020: Female_Ctrl_LeftFootEffector
+    400022: Female_Ctrl_LeftForeArm
+    400024: Female_Ctrl_LeftHand
+    400026: Female_Ctrl_LeftHandIndex1
+    400028: Female_Ctrl_LeftHandIndex2
+    400030: Female_Ctrl_LeftHandIndex3
+    400032: Female_Ctrl_LeftHandIndex4
+    400034: Female_Ctrl_LeftHandIndexEffector
+    400036: Female_Ctrl_LeftHandMiddle1
+    400038: Female_Ctrl_LeftHandMiddle2
+    400040: Female_Ctrl_LeftHandMiddle3
+    400042: Female_Ctrl_LeftHandMiddle4
+    400044: Female_Ctrl_LeftHandMiddleEffector
+    400046: Female_Ctrl_LeftHandPinky1
+    400048: Female_Ctrl_LeftHandPinky2
+    400050: Female_Ctrl_LeftHandPinky3
+    400052: Female_Ctrl_LeftHandPinky4
+    400054: Female_Ctrl_LeftHandPinkyEffector
+    400056: Female_Ctrl_LeftHandRing1
+    400058: Female_Ctrl_LeftHandRing2
+    400060: Female_Ctrl_LeftHandRing3
+    400062: Female_Ctrl_LeftHandRing4
+    400064: Female_Ctrl_LeftHandRingEffector
+    400066: Female_Ctrl_LeftHandThumb1
+    400068: Female_Ctrl_LeftHandThumb2
+    400070: Female_Ctrl_LeftHandThumb3
+    400072: Female_Ctrl_LeftHandThumb4
+    400074: Female_Ctrl_LeftHandThumbEffector
+    400076: Female_Ctrl_LeftHipEffector
+    400078: Female_Ctrl_LeftKneeEffector
+    400080: Female_Ctrl_LeftLeg
+    400082: Female_Ctrl_LeftShoulder
+    400084: Female_Ctrl_LeftShoulderEffector
+    400086: Female_Ctrl_LeftToeBase
+    400088: Female_Ctrl_LeftUpLeg
+    400090: Female_Ctrl_LeftWristEffector
+    400092: Female_Ctrl_Neck
+    400094: Female_Ctrl_Reference
+    400096: Female_Ctrl_RightAnkleEffector
+    400098: Female_Ctrl_RightArm
+    400100: Female_Ctrl_RightElbowEffector
+    400102: Female_Ctrl_RightFoot
+    400104: Female_Ctrl_RightFootEffector
+    400106: Female_Ctrl_RightForeArm
+    400108: Female_Ctrl_RightHand
+    400110: Female_Ctrl_RightHandIndex1
+    400112: Female_Ctrl_RightHandIndex2
+    400114: Female_Ctrl_RightHandIndex3
+    400116: Female_Ctrl_RightHandIndex4
+    400118: Female_Ctrl_RightHandIndexEffector
+    400120: Female_Ctrl_RightHandMiddle1
+    400122: Female_Ctrl_RightHandMiddle2
+    400124: Female_Ctrl_RightHandMiddle3
+    400126: Female_Ctrl_RightHandMiddle4
+    400128: Female_Ctrl_RightHandMiddleEffector
+    400130: Female_Ctrl_RightHandPinky1
+    400132: Female_Ctrl_RightHandPinky2
+    400134: Female_Ctrl_RightHandPinky3
+    400136: Female_Ctrl_RightHandPinky4
+    400138: Female_Ctrl_RightHandPinkyEffector
+    400140: Female_Ctrl_RightHandRing1
+    400142: Female_Ctrl_RightHandRing2
+    400144: Female_Ctrl_RightHandRing3
+    400146: Female_Ctrl_RightHandRing4
+    400148: Female_Ctrl_RightHandRingEffector
+    400150: Female_Ctrl_RightHandThumb1
+    400152: Female_Ctrl_RightHandThumb2
+    400154: Female_Ctrl_RightHandThumb3
+    400156: Female_Ctrl_RightHandThumb4
+    400158: Female_Ctrl_RightHandThumbEffector
+    400160: Female_Ctrl_RightHipEffector
+    400162: Female_Ctrl_RightKneeEffector
+    400164: Female_Ctrl_RightLeg
+    400166: Female_Ctrl_RightShoulder
+    400168: Female_Ctrl_RightShoulderEffector
+    400170: Female_Ctrl_RightToeBase
+    400172: Female_Ctrl_RightUpLeg
+    400174: Female_Ctrl_RightWristEffector
+    400176: Female_Ctrl_Spine
+    400178: Female_Ctrl_Spine1
+    400180: Female_Ctrl_Spine2
+    400182: //RootNode
+    400184: Female_Head
+    400186: Female_Hips
+    400188: Female_LeftArm
+    400190: Female_LeftFoot
+    400192: Female_LeftForeArm
+    400194: Female_LeftHand
+    400196: Female_LeftHandIndex1
+    400198: Female_LeftHandIndex2
+    400200: Female_LeftHandIndex3
+    400202: Female_LeftHandIndex4
+    400204: Female_LeftHandMiddle1
+    400206: Female_LeftHandMiddle2
+    400208: Female_LeftHandMiddle3
+    400210: Female_LeftHandMiddle4
+    400212: Female_LeftHandPinky1
+    400214: Female_LeftHandPinky2
+    400216: Female_LeftHandPinky3
+    400218: Female_LeftHandPinky4
+    400220: Female_LeftHandRing1
+    400222: Female_LeftHandRing2
+    400224: Female_LeftHandRing3
+    400226: Female_LeftHandRing4
+    400228: Female_LeftHandThumb1
+    400230: Female_LeftHandThumb2
+    400232: Female_LeftHandThumb3
+    400234: Female_LeftHandThumb4
+    400236: Female_LeftLeg
+    400238: Female_LeftShoulder
+    400240: Female_LeftToeBase
+    400242: Female_LeftUpLeg
+    400244: Female_Neck
+    400246: Female_Reference
+    400248: Female_RightArm
+    400250: Female_RightFoot
+    400252: Female_RightForeArm
+    400254: Female_RightHand
+    400256: Female_RightHandIndex1
+    400258: Female_RightHandIndex2
+    400260: Female_RightHandIndex3
+    400262: Female_RightHandIndex4
+    400264: Female_RightHandMiddle1
+    400266: Female_RightHandMiddle2
+    400268: Female_RightHandMiddle3
+    400270: Female_RightHandMiddle4
+    400272: Female_RightHandPinky1
+    400274: Female_RightHandPinky2
+    400276: Female_RightHandPinky3
+    400278: Female_RightHandPinky4
+    400280: Female_RightHandRing1
+    400282: Female_RightHandRing2
+    400284: Female_RightHandRing3
+    400286: Female_RightHandRing4
+    400288: Female_RightHandThumb1
+    400290: Female_RightHandThumb2
+    400292: Female_RightHandThumb3
+    400294: Female_RightHandThumb4
+    400296: Female_RightLeg
+    400298: Female_RightShoulder
+    400300: Female_RightToeBase
+    400302: Female_RightUpLeg
+    400304: Female_Spine
+    400306: Female_Spine1
+    400308: Female_Spine2
+    400310: Hair
+    400312: Head
+    400314: Legs
+    400316: Torso
+    2300000: Hair
+    2300002: Head
+    2300004: Legs
+    2300006: Torso
+    3300000: Hair
+    3300002: Head
+    3300004: Legs
+    3300006: Torso
+    4300000: Torso
+    4300002: Head
+    4300004: Legs
+    4300006: Hair
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Female_Ctrl_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Female_Ctrl_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Female_Default(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_ChestEndEffector
+      position: {x: -0, y: 1.5249372, z: -0.019885363}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_ChestOriginEffector
+      position: {x: -0, y: 1.2675949, z: 0}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_HeadEffector
+      position: {x: -0, y: 1.7477868, z: 0}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Hips
+      position: {x: -0, y: 1.1724218, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftUpLeg
+      position: {x: -0.0683062, y: -0.087177746, z: 0.0048580514}
+      rotation: {x: 4.1839362e-16, y: -1.2836954e-16, z: 1.179612e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftLeg
+      position: {x: -0.04940109, y: -0.433996, z: 0.060742933}
+      rotation: {x: 8.326673e-17, y: 1.3465153e-16, z: -7.743267e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftFoot
+      position: {x: -0, y: -0.47765228, z: -0.11915323}
+      rotation: {x: -5.672083e-17, y: 0.022173202, z: 1.8507678e-16, w: 0.99975413}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftToeBase
+      position: {x: -0.052373193, y: -0.14173637, z: 0.11578011}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightUpLeg
+      position: {x: 0.0683062, y: -0.087177746, z: 0.0048580514}
+      rotation: {x: -1.1963087e-15, y: 1.1362439e-16, z: 5.0653925e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightLeg
+      position: {x: 0.04940109, y: -0.433996, z: 0.060742933}
+      rotation: {x: 8.326673e-17, y: 1.3465153e-16, z: -7.743267e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightFoot
+      position: {x: -0, y: -0.47765228, z: -0.11915323}
+      rotation: {x: -1.9461287e-16, y: -0.022173202, z: -5.0952165e-17, w: 0.99975413}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightToeBase
+      position: {x: 0.052373193, y: -0.14173637, z: 0.11578011}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Spine
+      position: {x: -0, y: 0.095173165, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Spine1
+      position: {x: -0, y: 0.11051797, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Spine2
+      position: {x: -0, y: 0.110517874, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftShoulder
+      position: {x: -0.046955384, y: 0.036306378, z: -0.019885363}
+      rotation: {x: 0, y: 0, z: -6.7762636e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftArm
+      position: {x: -0.04345397, y: 0.0000015258788, z: 0}
+      rotation: {x: -6.275997e-20, y: 2.5019552e-18, z: 3.469447e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftForeArm
+      position: {x: -0.2523299, y: -0.006329536, z: 0}
+      rotation: {x: -1.0733157e-20, y: -1.1707469e-18, z: -1.7347235e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHand
+      position: {x: -0.2629739, y: 0.0024108884, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandIndex1
+      position: {x: -0.13299851, y: -0.004505062, z: 0.047370665}
+      rotation: {x: 7.5108e-20, y: -1.0408341e-17, z: -3.2549557e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandIndex2
+      position: {x: -0.036701296, y: -0.00000028610228, z: 0.0010971277}
+      rotation: {x: 7.08596e-20, y: 1.7347235e-18, z: -1.7970499e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandIndex3
+      position: {x: -0.031887863, y: -0.00000019073485, z: 0.00085383945}
+      rotation: {x: 1.6543612e-23, y: -1.2143064e-17, z: -2.0782913e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandIndex4
+      position: {x: -0.036919497, y: -0.000000095367426, z: 0.00076683157}
+      rotation: {x: 1.6543612e-23, y: -1.2143064e-17, z: -2.1186163e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandMiddle1
+      position: {x: -0.13144068, y: -0.004566192, z: 0.016726865}
+      rotation: {x: 3.6352012e-36, y: 3.469447e-18, z: -1.0477754e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandMiddle2
+      position: {x: -0.043348026, y: 1.7763567e-16, z: -0.0007417485}
+      rotation: {x: 9.830061e-37, y: 1.7347235e-18, z: -5.666644e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandMiddle3
+      position: {x: -0.04005074, y: 1.7763567e-16, z: -0.0003706429}
+      rotation: {x: 0, y: 0, z: -5.9480847e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandMiddle4
+      position: {x: -0.038211536, y: 0, z: -0.0003711853}
+      rotation: {x: 6.122945e-17, y: 1.22298e-16, z: 6.182712e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandPinky1
+      position: {x: -0.1218511, y: -0.004332924, z: -0.05084066}
+      rotation: {x: -0.00009439927, y: 0.0091097895, z: 0.0017450457, w: 0.999957}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandPinky2
+      position: {x: -0.027981805, y: 0.0000003814697, z: -0.0015155553}
+      rotation: {x: 9.280305e-20, y: -3.469447e-18, z: 4.0498763e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandPinky3
+      position: {x: -0.027972268, y: 0.00000028610228, z: -0.0014145195}
+      rotation: {x: 2.0421435e-19, y: 1.3877788e-17, z: 1.0841029e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandPinky4
+      position: {x: -0.03148007, y: 0.00000028610228, z: -0.0015155494}
+      rotation: {x: -6.115999e-17, y: 1.6306401e-16, z: 5.8286984e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandRing1
+      position: {x: -0.12648734, y: -0.004122162, z: -0.016998969}
+      rotation: {x: -5.3876775e-36, y: -3.469447e-18, z: -1.5528923e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandRing2
+      position: {x: -0.034897897, y: -1.7763567e-16, z: -0.0008850336}
+      rotation: {x: -0, y: -2.646978e-23, z: -5.6423272e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandRing3
+      position: {x: -0.03234243, y: -1.7763567e-16, z: -0.000000002980232}
+      rotation: {x: 1.321223e-35, y: 6.938894e-18, z: -1.904083e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandRing4
+      position: {x: -0.035576914, y: -1.7763567e-16, z: -0.0011063009}
+      rotation: {x: 6.1202756e-17, y: 1.2143064e-16, z: 6.31355e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandThumb1
+      position: {x: -0.047811456, y: -0.024951933, z: 0.05707356}
+      rotation: {x: -0.021521922, y: -0.010510369, z: -0.016956989, w: 0.99956936}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandThumb2
+      position: {x: -0.025348233, y: -0.010870075, z: 0.03890973}
+      rotation: {x: 0.014422102, y: 0.20388155, z: 0.06635307, w: 0.9766379}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandThumb3
+      position: {x: -0.03920922, y: -0.0043552397, z: 0.021904442}
+      rotation: {x: 0.0010792688, y: 0.0402575, z: 0.009936113, w: 0.9991394}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandThumb4
+      position: {x: -0.034240436, y: -0.0021775244, z: 0.012541913}
+      rotation: {x: -2.654127e-16, y: -1.9190378e-17, z: 8.326673e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Neck
+      position: {x: -0, y: 0.11051797, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_Head
+      position: {x: -0, y: 0.14863805, z: 0}
+      rotation: {x: 3.6368307e-16, y: 1.6653345e-16, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightShoulder
+      position: {x: 0.046955384, y: 0.036306378, z: -0.019885363}
+      rotation: {x: 0, y: 0, z: 6.7762636e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightArm
+      position: {x: 0.04345397, y: 0.0000015258788, z: 0}
+      rotation: {x: 6.275997e-20, y: 2.5019552e-18, z: -3.469447e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightForeArm
+      position: {x: 0.2523299, y: -0.006329536, z: 0}
+      rotation: {x: 1.0733157e-20, y: -1.1707469e-18, z: 1.7347235e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHand
+      position: {x: 0.2629739, y: 0.0024108884, z: 0}
+      rotation: {x: -1.2325952e-32, y: 6.123234e-17, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandIndex1
+      position: {x: 0.13299851, y: -0.004505062, z: 0.047370665}
+      rotation: {x: -4.5490963e-19, y: 8.673617e-18, z: -1.3860652e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandIndex2
+      position: {x: 0.036701296, y: -0.00000028610228, z: 0.0010971277}
+      rotation: {x: 6.982701e-18, y: -1.7347235e-18, z: -2.2185786e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandIndex3
+      position: {x: 0.031887863, y: -0.00000019073485, z: 0.00085383945}
+      rotation: {x: 2.0968863e-18, y: 1.2143064e-17, z: 4.376985e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandIndex4
+      position: {x: 0.036919497, y: -0.000000095367426, z: 0.00076683157}
+      rotation: {x: 2.3161057e-23, y: 1.2143064e-17, z: 9.7111e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandMiddle1
+      position: {x: 0.13144068, y: -0.004566192, z: 0.016726865}
+      rotation: {x: -1.0476221e-18, y: -1.8780045e-38, z: 1.7926355e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandMiddle2
+      position: {x: 0.043348026, y: 1.7763567e-16, z: -0.0007417485}
+      rotation: {x: -5.666402e-19, y: -2.971392e-39, z: 5.2438768e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandMiddle3
+      position: {x: 0.04005074, y: 1.7763567e-16, z: -0.0003706429}
+      rotation: {x: -5.947804e-19, y: -1.7347235e-18, z: 5.777673e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandMiddle4
+      position: {x: 0.038211536, y: 0, z: -0.0003711853}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandPinky1
+      position: {x: 0.1218511, y: -0.004332924, z: -0.05084066}
+      rotation: {x: -0.00009439927, y: -0.0091097895, z: -0.0017450457, w: 0.999957}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandPinky2
+      position: {x: 0.027981805, y: 0.0000003814697, z: -0.0015155553}
+      rotation: {x: -1.875225e-18, y: 3.469447e-18, z: 9.465097e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandPinky3
+      position: {x: 0.027972268, y: 0.00000028610228, z: -0.0014145195}
+      rotation: {x: 6.5516675e-18, y: -1.7347235e-17, z: 2.2172783e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandPinky4
+      position: {x: 0.03148007, y: 0.00000028610228, z: -0.0015155494}
+      rotation: {x: 2.1175824e-22, y: -2.0816682e-17, z: -1.3350695e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandRing1
+      position: {x: 0.12648734, y: -0.004122162, z: -0.016998969}
+      rotation: {x: -1.5523931e-18, y: 3.469447e-18, z: 3.9369706e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandRing2
+      position: {x: 0.034897897, y: -1.7763567e-16, z: -0.0008850336}
+      rotation: {x: -5.6423272e-24, y: -0, z: 5.19919e-31, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandRing3
+      position: {x: 0.03234243, y: -1.7763567e-16, z: -0.000000002980232}
+      rotation: {x: -1.9031629e-18, y: 1.7347235e-18, z: 5.918082e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandRing4
+      position: {x: 0.035576914, y: -1.7763567e-16, z: -0.0011063009}
+      rotation: {x: 0, y: -6.938894e-18, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandThumb1
+      position: {x: 0.047811456, y: -0.024951933, z: 0.05707356}
+      rotation: {x: -0.021521922, y: 0.010510369, z: 0.016956989, w: 0.99956936}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandThumb2
+      position: {x: 0.025348233, y: -0.010870075, z: 0.03890973}
+      rotation: {x: 0.014422102, y: -0.20388155, z: -0.06635307, w: 0.9766379}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandThumb3
+      position: {x: 0.03920922, y: -0.0043552397, z: 0.021904442}
+      rotation: {x: 0.0010792688, y: -0.0402575, z: -0.009936113, w: 0.9991394}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandThumb4
+      position: {x: 0.034240436, y: -0.0021775244, z: 0.012541913}
+      rotation: {x: 2.8275993e-16, y: -9.432559e-18, z: 1.2143064e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_HipsEffector
+      position: {x: -0, y: 1.085244, z: 0.0048580514}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftAnkleEffector
+      position: {x: -0.11770729, y: 0.17359574, z: -0.053552244}
+      rotation: {x: -6.591949e-17, y: -1.5265567e-16, z: 2.220446e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftElbowEffector
+      position: {x: -0.34273922, y: 1.5186092, z: -0.019885363}
+      rotation: {x: -6.7574307e-21, y: -7.3708426e-19, z: -1.7347235e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftFootEffector
+      position: {x: -0.17008048, y: 0.031859364, z: 0.062227864}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandIndexEffector
+      position: {x: -0.8442203, y: 1.5165144, z: 0.030203102}
+      rotation: {x: 9.926167e-24, y: -8.673617e-18, z: -2.1165484e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandMiddleEffector
+      position: {x: -0.8587641, y: 1.5164539, z: -0.004642075}
+      rotation: {x: 6.122945e-17, y: 1.22298e-16, z: 6.182712e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandPinkyEffector
+      position: {x: -0.8149984, y: 1.5166881, z: -0.07517165}
+      rotation: {x: -6.115999e-17, y: 1.6306401e-16, z: 5.8286984e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandRingEffector
+      position: {x: -0.83501774, y: 1.5168979, z: -0.03887567}
+      rotation: {x: 6.1202756e-17, y: 1.2143064e-16, z: 6.31355e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHandThumbEffector
+      position: {x: -0.7523225, y: 1.4786652, z: 0.11054428}
+      rotation: {x: -1.6132928e-16, y: -1.3335687e-17, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftHipEffector
+      position: {x: -0.0683062, y: 1.085244, z: 0.0048580514}
+      rotation: {x: 3.9063804e-16, y: -1.2576745e-16, z: 1.179612e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftKneeEffector
+      position: {x: -0.11770729, y: 0.65124804, z: 0.065600984}
+      rotation: {x: -1.3877788e-17, y: 2.6930307e-17, z: 6.7179267e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftShoulderEffector
+      position: {x: -0.09040935, y: 1.5249387, z: -0.019885363}
+      rotation: {x: -6.275997e-20, y: 2.5019552e-18, z: 1.5702262e-37, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_LeftWristEffector
+      position: {x: -0.6057131, y: 1.52102, z: -0.019885363}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightAnkleEffector
+      position: {x: 0.11770729, y: 0.17359574, z: -0.053552244}
+      rotation: {x: -9.020562e-17, y: 3.1918912e-16, z: -4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightElbowEffector
+      position: {x: 0.34273922, y: 1.5186092, z: -0.019885363}
+      rotation: {x: 6.7574307e-21, y: -7.3708426e-19, z: 1.7347235e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightFootEffector
+      position: {x: 0.17008048, y: 0.031859364, z: 0.062227864}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandIndexEffector
+      position: {x: 0.8442203, y: 1.5165144, z: 0.030203102}
+      rotation: {x: 1.323489e-23, y: 8.673617e-18, z: 3.3542174e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandMiddleEffector
+      position: {x: 0.8587641, y: 1.5164539, z: -0.004642075}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandPinkyEffector
+      position: {x: 0.8149984, y: 1.5166881, z: -0.07517165}
+      rotation: {x: 1.323489e-22, y: -1.0408341e-17, z: 3.672682e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandRingEffector
+      position: {x: 0.83501774, y: 1.5168979, z: -0.03887567}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHandThumbEffector
+      position: {x: 0.7523225, y: 1.4786652, z: 0.11054428}
+      rotation: {x: 2.8275993e-16, y: -9.432559e-18, z: 1.2143064e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightHipEffector
+      position: {x: 0.0683062, y: 1.085244, z: 0.0048580514}
+      rotation: {x: -1.1407975e-15, y: 1.1969592e-16, z: 2.9143354e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightKneeEffector
+      position: {x: 0.11770729, y: 0.65124804, z: 0.065600984}
+      rotation: {x: -1.3877788e-17, y: 2.6930307e-17, z: 6.7179267e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightShoulderEffector
+      position: {x: 0.09040935, y: 1.5249387, z: -0.019885363}
+      rotation: {x: 6.275997e-20, y: 2.5019552e-18, z: -1.5702262e-37, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Ctrl_RightWristEffector
+      position: {x: 0.6057131, y: 1.52102, z: -0.019885363}
+      rotation: {x: -1.2325952e-32, y: 6.123234e-17, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Reference
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Hips
+      position: {x: 8.060618e-18, y: 1.1724218, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftUpLeg
+      position: {x: -0.0683062, y: -0.087177746, z: 0.0048580514}
+      rotation: {x: 0.0000023692846, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftLeg
+      position: {x: -0.049401112, y: -0.43399578, z: 0.060745195}
+      rotation: {x: -0.0000022053719, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftFoot
+      position: {x: 0.000000023841856, y: -0.47765222, z: -0.11915331}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftToeBase
+      position: {x: -0.052373193, y: -0.14173634, z: 0.11578015}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightUpLeg
+      position: {x: 0.0683062, y: -0.087177746, z: 0.0048580514}
+      rotation: {x: 0.000002078712, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightLeg
+      position: {x: 0.049401112, y: -0.43399584, z: 0.060744956}
+      rotation: {x: -0.0000019599684, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightFoot
+      position: {x: -0.000000023841856, y: -0.47765222, z: -0.11915335}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightToeBase
+      position: {x: 0.052373193, y: -0.14173636, z: 0.115780145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Spine
+      position: {x: 1.0566344e-17, y: 0.095173165, z: 3.169903e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Spine1
+      position: {x: 2.4651902e-33, y: 0.11051797, z: 7.3619756e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Spine2
+      position: {x: -1.2269949e-17, y: 0.110517874, z: 1.1042953e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftShoulder
+      position: {x: -0.046955384, y: 0.036306378, z: -0.019885363}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftArm
+      position: {x: -0.04345397, y: 0.0000015258788, z: 0}
+      rotation: {x: -1.1368209e-12, y: 0.0000011770993, z: 0.0000009657816, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftForeArm
+      position: {x: -0.2523299, y: -0.006329049, z: -0.00000059403465}
+      rotation: {x: -1.1567483e-12, y: -0.0000011717442, z: -0.000000987202, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHand
+      position: {x: -0.2629739, y: 0.0024108773, z: -0.000000002816495}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandIndex1
+      position: {x: -0.13299851, y: -0.0045050676, z: 0.047370665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandIndex2
+      position: {x: -0.036701296, y: -0.0000002876746, z: 0.0010971273}
+      rotation: {x: -9.864332e-12, y: -0.000010633154, z: 0.00000092769574, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandIndex3
+      position: {x: -0.031887844, y: -0.00000022830393, z: 0.0008545173}
+      rotation: {x: 0, y: 0.000058482347, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandIndex4
+      position: {x: -0.03691957, y: -0.00000012381643, z: 0.00076329807}
+      rotation: {x: 0, y: -0.00013291443, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandMiddle1
+      position: {x: -0.13144068, y: -0.0045661977, z: 0.016726865}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandMiddle2
+      position: {x: -0.043348026, y: -0.0000000018570626, z: -0.00074174895}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandMiddle3
+      position: {x: -0.04005074, y: -0.0000000017158057, z: -0.0003706433}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandMiddle4
+      position: {x: -0.038211536, y: -0.0000000016370125, z: -0.0003711857}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandPinky1
+      position: {x: -0.1218511, y: -0.004332929, z: -0.05084066}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandPinky2
+      position: {x: -0.027981805, y: 0.00000038027093, z: -0.0015155555}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandPinky3
+      position: {x: -0.027972268, y: 0.00000028490393, z: -0.0014145197}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandPinky4
+      position: {x: -0.03148007, y: 0.00000028475367, z: -0.0015155497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandRing1
+      position: {x: -0.12648734, y: -0.0041221674, z: -0.01699897}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandRing2
+      position: {x: -0.034897897, y: -0.000000001495051, z: -0.0008850339}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandRing3
+      position: {x: -0.03234243, y: -0.0000000013855777, z: -0.0000000033266263}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandRing4
+      position: {x: -0.035576914, y: -0.0000000015241395, z: -0.0011063012}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandThumb1
+      position: {x: -0.047811456, y: -0.024951935, z: 0.05707356}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandThumb2
+      position: {x: -0.025348233, y: -0.010870076, z: 0.03890973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandThumb3
+      position: {x: -0.03920922, y: -0.0043552415, z: 0.021904442}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_LeftHandThumb4
+      position: {x: -0.034240436, y: -0.002177526, z: 0.012541913}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Neck
+      position: {x: -2.453992e-17, y: 0.11051797, z: 1.4723954e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_Head
+      position: {x: -4.9506416e-17, y: 0.14863805, z: 2.4753206e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightShoulder
+      position: {x: 0.046955384, y: 0.036306378, z: -0.019885363}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightArm
+      position: {x: 0.04345397, y: 0.0000015258788, z: 0}
+      rotation: {x: -1.0925056e-12, y: -0.0000011323059, z: -0.0000009648503, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightForeArm
+      position: {x: 0.2523299, y: -0.006329049, z: -0.00000057142927}
+      rotation: {x: -1.1129632e-12, y: 0.000001119733, z: 0.0000009939541, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHand
+      position: {x: 0.2629739, y: 0.0024108733, z: -0.000000006612655}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandIndex1
+      position: {x: 0.13299851, y: -0.0045050695, z: 0.047370665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandIndex2
+      position: {x: 0.036701296, y: -0.0000002882386, z: 0.0010971267}
+      rotation: {x: 9.985179e-12, y: -0.000010633497, z: -0.00000093903054, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandIndex3
+      position: {x: 0.03188788, y: -0.00000022807102, z: 0.0008531605}
+      rotation: {x: 0, y: 0.00005848424, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandIndex4
+      position: {x: 0.036919422, y: -0.00000012354676, z: 0.0007703639}
+      rotation: {x: 0, y: -0.00013291872, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandMiddle1
+      position: {x: 0.13144068, y: -0.0045662, z: 0.016726863}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandMiddle2
+      position: {x: 0.043348026, y: -0.000000002523184, z: -0.00074174954}
+      rotation: {x: 0, y: -0.000010633497, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandMiddle3
+      position: {x: 0.040050734, y: -0.0000000023312576, z: -0.00037149567}
+      rotation: {x: 0, y: 0.00005848424, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandMiddle4
+      position: {x: 0.03821157, y: -0.0000000022242028, z: -0.00036752934}
+      rotation: {x: 0, y: -0.00013291872, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandPinky1
+      position: {x: 0.1218511, y: -0.004332931, z: -0.05084066}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandPinky2
+      position: {x: 0.027981805, y: 0.00000037984097, z: -0.001515556}
+      rotation: {x: 0, y: -0.000010633497, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandPinky3
+      position: {x: 0.027972238, y: 0.00000028447408, z: -0.0014151151}
+      rotation: {x: 0, y: 0.00005848424, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandPinky4
+      position: {x: 0.03148022, y: 0.0000002842699, z: -0.0015125375}
+      rotation: {x: 0, y: -0.00013291872, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandRing1
+      position: {x: 0.12648734, y: -0.004122169, z: -0.016998973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandRing2
+      position: {x: 0.034897897, y: -0.000000002031321, z: -0.0008850344}
+      rotation: {x: 0, y: -0.000010633497, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandRing3
+      position: {x: 0.03234243, y: -0.0000000018825774, z: -0.00000069161985}
+      rotation: {x: 0, y: 0.00005848424, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandRing4
+      position: {x: 0.035577018, y: -0.0000000020708437, z: -0.001102897}
+      rotation: {x: 0, y: -0.00013291872, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandThumb1
+      position: {x: 0.047811456, y: -0.024951937, z: 0.05707356}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandThumb2
+      position: {x: 0.025348233, y: -0.010870076, z: 0.03890973}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandThumb3
+      position: {x: 0.03920922, y: -0.004355242, z: 0.021904442}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Female_RightHandThumb4
+      position: {x: 0.034240436, y: -0.0021775265, z: 0.012541912}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hair
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.52435035, y: 0.52435035, z: 0.52435035}
+      transformModified: 1
+    - name: Head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Legs
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Torso
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
