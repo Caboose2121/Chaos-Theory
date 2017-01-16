@@ -263,6 +263,14 @@ ModelImporter:
     400252: Female_Ctrl_Spine
     400254: Female_Ctrl_Spine1
     400256: Female_Ctrl_Spine2
+    2300000: Hair
+    2300002: Head
+    2300004: Legs
+    2300006: Torso
+    3300000: Hair
+    3300002: Head
+    3300004: Legs
+    3300006: Torso
     4300000: Torso
     4300002: Head
     4300004: Legs
