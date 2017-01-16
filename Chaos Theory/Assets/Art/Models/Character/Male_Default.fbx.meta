@@ -73,6 +73,67 @@ ModelImporter:
     100130: Legs
     100132: //RootNode
     100134: Torso
+    100136: Character1_Ctrl_ChestEndEffector
+    100138: Character1_Ctrl_ChestOriginEffector
+    100140: Character1_Ctrl_Head
+    100142: Character1_Ctrl_HeadEffector
+    100144: Character1_Ctrl_Hips
+    100146: Character1_Ctrl_HipsEffector
+    100148: Character1_Ctrl_LeftAnkleEffector
+    100150: Character1_Ctrl_LeftArm
+    100152: Character1_Ctrl_LeftElbowEffector
+    100154: Character1_Ctrl_LeftFoot
+    100156: Character1_Ctrl_LeftFootEffector
+    100158: Character1_Ctrl_LeftForeArm
+    100160: Character1_Ctrl_LeftHand
+    100162: Character1_Ctrl_LeftHandMiddle1
+    100164: Character1_Ctrl_LeftHandMiddle2
+    100166: Character1_Ctrl_LeftHandMiddle3
+    100168: Character1_Ctrl_LeftHandMiddle4
+    100170: Character1_Ctrl_LeftHandMiddleEffector
+    100172: Character1_Ctrl_LeftHandThumb1
+    100174: Character1_Ctrl_LeftHandThumb2
+    100176: Character1_Ctrl_LeftHandThumb3
+    100178: Character1_Ctrl_LeftHandThumb4
+    100180: Character1_Ctrl_LeftHandThumbEffector
+    100182: Character1_Ctrl_LeftHipEffector
+    100184: Character1_Ctrl_LeftKneeEffector
+    100186: Character1_Ctrl_LeftLeg
+    100188: Character1_Ctrl_LeftShoulder
+    100190: Character1_Ctrl_LeftShoulderEffector
+    100192: Character1_Ctrl_LeftToeBase
+    100194: Character1_Ctrl_LeftUpLeg
+    100196: Character1_Ctrl_LeftWristEffector
+    100198: Character1_Ctrl_Neck
+    100200: Character1_Ctrl_Reference
+    100202: Character1_Ctrl_RightAnkleEffector
+    100204: Character1_Ctrl_RightArm
+    100206: Character1_Ctrl_RightElbowEffector
+    100208: Character1_Ctrl_RightFoot
+    100210: Character1_Ctrl_RightFootEffector
+    100212: Character1_Ctrl_RightForeArm
+    100214: Character1_Ctrl_RightHand
+    100216: Character1_Ctrl_RightHandMiddle1
+    100218: Character1_Ctrl_RightHandMiddle2
+    100220: Character1_Ctrl_RightHandMiddle3
+    100222: Character1_Ctrl_RightHandMiddle4
+    100224: Character1_Ctrl_RightHandMiddleEffector
+    100226: Character1_Ctrl_RightHandThumb1
+    100228: Character1_Ctrl_RightHandThumb2
+    100230: Character1_Ctrl_RightHandThumb3
+    100232: Character1_Ctrl_RightHandThumb4
+    100234: Character1_Ctrl_RightHandThumbEffector
+    100236: Character1_Ctrl_RightHipEffector
+    100238: Character1_Ctrl_RightKneeEffector
+    100240: Character1_Ctrl_RightLeg
+    100242: Character1_Ctrl_RightShoulder
+    100244: Character1_Ctrl_RightShoulderEffector
+    100246: Character1_Ctrl_RightToeBase
+    100248: Character1_Ctrl_RightUpLeg
+    100250: Character1_Ctrl_RightWristEffector
+    100252: Character1_Ctrl_Spine
+    100254: Character1_Ctrl_Spine1
+    100256: Character1_Ctrl_Spine2
     400000: Character1_Head
     400002: Character1_Hips
     400004: Character1_LeftArm
@@ -141,6 +202,75 @@ ModelImporter:
     400130: Legs
     400132: //RootNode
     400134: Torso
+    400136: Character1_Ctrl_ChestEndEffector
+    400138: Character1_Ctrl_ChestOriginEffector
+    400140: Character1_Ctrl_Head
+    400142: Character1_Ctrl_HeadEffector
+    400144: Character1_Ctrl_Hips
+    400146: Character1_Ctrl_HipsEffector
+    400148: Character1_Ctrl_LeftAnkleEffector
+    400150: Character1_Ctrl_LeftArm
+    400152: Character1_Ctrl_LeftElbowEffector
+    400154: Character1_Ctrl_LeftFoot
+    400156: Character1_Ctrl_LeftFootEffector
+    400158: Character1_Ctrl_LeftForeArm
+    400160: Character1_Ctrl_LeftHand
+    400162: Character1_Ctrl_LeftHandMiddle1
+    400164: Character1_Ctrl_LeftHandMiddle2
+    400166: Character1_Ctrl_LeftHandMiddle3
+    400168: Character1_Ctrl_LeftHandMiddle4
+    400170: Character1_Ctrl_LeftHandMiddleEffector
+    400172: Character1_Ctrl_LeftHandThumb1
+    400174: Character1_Ctrl_LeftHandThumb2
+    400176: Character1_Ctrl_LeftHandThumb3
+    400178: Character1_Ctrl_LeftHandThumb4
+    400180: Character1_Ctrl_LeftHandThumbEffector
+    400182: Character1_Ctrl_LeftHipEffector
+    400184: Character1_Ctrl_LeftKneeEffector
+    400186: Character1_Ctrl_LeftLeg
+    400188: Character1_Ctrl_LeftShoulder
+    400190: Character1_Ctrl_LeftShoulderEffector
+    400192: Character1_Ctrl_LeftToeBase
+    400194: Character1_Ctrl_LeftUpLeg
+    400196: Character1_Ctrl_LeftWristEffector
+    400198: Character1_Ctrl_Neck
+    400200: Character1_Ctrl_Reference
+    400202: Character1_Ctrl_RightAnkleEffector
+    400204: Character1_Ctrl_RightArm
+    400206: Character1_Ctrl_RightElbowEffector
+    400208: Character1_Ctrl_RightFoot
+    400210: Character1_Ctrl_RightFootEffector
+    400212: Character1_Ctrl_RightForeArm
+    400214: Character1_Ctrl_RightHand
+    400216: Character1_Ctrl_RightHandMiddle1
+    400218: Character1_Ctrl_RightHandMiddle2
+    400220: Character1_Ctrl_RightHandMiddle3
+    400222: Character1_Ctrl_RightHandMiddle4
+    400224: Character1_Ctrl_RightHandMiddleEffector
+    400226: Character1_Ctrl_RightHandThumb1
+    400228: Character1_Ctrl_RightHandThumb2
+    400230: Character1_Ctrl_RightHandThumb3
+    400232: Character1_Ctrl_RightHandThumb4
+    400234: Character1_Ctrl_RightHandThumbEffector
+    400236: Character1_Ctrl_RightHipEffector
+    400238: Character1_Ctrl_RightKneeEffector
+    400240: Character1_Ctrl_RightLeg
+    400242: Character1_Ctrl_RightShoulder
+    400244: Character1_Ctrl_RightShoulderEffector
+    400246: Character1_Ctrl_RightToeBase
+    400248: Character1_Ctrl_RightUpLeg
+    400250: Character1_Ctrl_RightWristEffector
+    400252: Character1_Ctrl_Spine
+    400254: Character1_Ctrl_Spine1
+    400256: Character1_Ctrl_Spine2
+    2300000: Hair
+    2300002: Head
+    2300004: Legs
+    2300006: Torso
+    3300000: Hair
+    3300002: Head
+    3300004: Legs
+    3300006: Torso
     4300000: Torso
     4300002: Head
     4300004: Hair

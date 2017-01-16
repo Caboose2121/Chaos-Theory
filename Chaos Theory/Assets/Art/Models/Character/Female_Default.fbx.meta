@@ -73,6 +73,67 @@ ModelImporter:
     100130: Head
     100132: Legs
     100134: Torso
+    100136: Female_Ctrl_ChestEndEffector
+    100138: Female_Ctrl_ChestOriginEffector
+    100140: Female_Ctrl_Head
+    100142: Female_Ctrl_HeadEffector
+    100144: Female_Ctrl_Hips
+    100146: Female_Ctrl_HipsEffector
+    100148: Female_Ctrl_LeftAnkleEffector
+    100150: Female_Ctrl_LeftArm
+    100152: Female_Ctrl_LeftElbowEffector
+    100154: Female_Ctrl_LeftFoot
+    100156: Female_Ctrl_LeftFootEffector
+    100158: Female_Ctrl_LeftForeArm
+    100160: Female_Ctrl_LeftHand
+    100162: Female_Ctrl_LeftHandMiddle1
+    100164: Female_Ctrl_LeftHandMiddle2
+    100166: Female_Ctrl_LeftHandMiddle3
+    100168: Female_Ctrl_LeftHandMiddle4
+    100170: Female_Ctrl_LeftHandMiddleEffector
+    100172: Female_Ctrl_LeftHandThumb1
+    100174: Female_Ctrl_LeftHandThumb2
+    100176: Female_Ctrl_LeftHandThumb3
+    100178: Female_Ctrl_LeftHandThumb4
+    100180: Female_Ctrl_LeftHandThumbEffector
+    100182: Female_Ctrl_LeftHipEffector
+    100184: Female_Ctrl_LeftKneeEffector
+    100186: Female_Ctrl_LeftLeg
+    100188: Female_Ctrl_LeftShoulder
+    100190: Female_Ctrl_LeftShoulderEffector
+    100192: Female_Ctrl_LeftToeBase
+    100194: Female_Ctrl_LeftUpLeg
+    100196: Female_Ctrl_LeftWristEffector
+    100198: Female_Ctrl_Neck
+    100200: Female_Ctrl_Reference
+    100202: Female_Ctrl_RightAnkleEffector
+    100204: Female_Ctrl_RightArm
+    100206: Female_Ctrl_RightElbowEffector
+    100208: Female_Ctrl_RightFoot
+    100210: Female_Ctrl_RightFootEffector
+    100212: Female_Ctrl_RightForeArm
+    100214: Female_Ctrl_RightHand
+    100216: Female_Ctrl_RightHandMiddle1
+    100218: Female_Ctrl_RightHandMiddle2
+    100220: Female_Ctrl_RightHandMiddle3
+    100222: Female_Ctrl_RightHandMiddle4
+    100224: Female_Ctrl_RightHandMiddleEffector
+    100226: Female_Ctrl_RightHandThumb1
+    100228: Female_Ctrl_RightHandThumb2
+    100230: Female_Ctrl_RightHandThumb3
+    100232: Female_Ctrl_RightHandThumb4
+    100234: Female_Ctrl_RightHandThumbEffector
+    100236: Female_Ctrl_RightHipEffector
+    100238: Female_Ctrl_RightKneeEffector
+    100240: Female_Ctrl_RightLeg
+    100242: Female_Ctrl_RightShoulder
+    100244: Female_Ctrl_RightShoulderEffector
+    100246: Female_Ctrl_RightToeBase
+    100248: Female_Ctrl_RightUpLeg
+    100250: Female_Ctrl_RightWristEffector
+    100252: Female_Ctrl_Spine
+    100254: Female_Ctrl_Spine1
+    100256: Female_Ctrl_Spine2
     400000: //RootNode
     400002: Female_Head
     400004: Female_Hips
@@ -141,6 +202,75 @@ ModelImporter:
     400130: Head
     400132: Legs
     400134: Torso
+    400136: Female_Ctrl_ChestEndEffector
+    400138: Female_Ctrl_ChestOriginEffector
+    400140: Female_Ctrl_Head
+    400142: Female_Ctrl_HeadEffector
+    400144: Female_Ctrl_Hips
+    400146: Female_Ctrl_HipsEffector
+    400148: Female_Ctrl_LeftAnkleEffector
+    400150: Female_Ctrl_LeftArm
+    400152: Female_Ctrl_LeftElbowEffector
+    400154: Female_Ctrl_LeftFoot
+    400156: Female_Ctrl_LeftFootEffector
+    400158: Female_Ctrl_LeftForeArm
+    400160: Female_Ctrl_LeftHand
+    400162: Female_Ctrl_LeftHandMiddle1
+    400164: Female_Ctrl_LeftHandMiddle2
+    400166: Female_Ctrl_LeftHandMiddle3
+    400168: Female_Ctrl_LeftHandMiddle4
+    400170: Female_Ctrl_LeftHandMiddleEffector
+    400172: Female_Ctrl_LeftHandThumb1
+    400174: Female_Ctrl_LeftHandThumb2
+    400176: Female_Ctrl_LeftHandThumb3
+    400178: Female_Ctrl_LeftHandThumb4
+    400180: Female_Ctrl_LeftHandThumbEffector
+    400182: Female_Ctrl_LeftHipEffector
+    400184: Female_Ctrl_LeftKneeEffector
+    400186: Female_Ctrl_LeftLeg
+    400188: Female_Ctrl_LeftShoulder
+    400190: Female_Ctrl_LeftShoulderEffector
+    400192: Female_Ctrl_LeftToeBase
+    400194: Female_Ctrl_LeftUpLeg
+    400196: Female_Ctrl_LeftWristEffector
+    400198: Female_Ctrl_Neck
+    400200: Female_Ctrl_Reference
+    400202: Female_Ctrl_RightAnkleEffector
+    400204: Female_Ctrl_RightArm
+    400206: Female_Ctrl_RightElbowEffector
+    400208: Female_Ctrl_RightFoot
+    400210: Female_Ctrl_RightFootEffector
+    400212: Female_Ctrl_RightForeArm
+    400214: Female_Ctrl_RightHand
+    400216: Female_Ctrl_RightHandMiddle1
+    400218: Female_Ctrl_RightHandMiddle2
+    400220: Female_Ctrl_RightHandMiddle3
+    400222: Female_Ctrl_RightHandMiddle4
+    400224: Female_Ctrl_RightHandMiddleEffector
+    400226: Female_Ctrl_RightHandThumb1
+    400228: Female_Ctrl_RightHandThumb2
+    400230: Female_Ctrl_RightHandThumb3
+    400232: Female_Ctrl_RightHandThumb4
+    400234: Female_Ctrl_RightHandThumbEffector
+    400236: Female_Ctrl_RightHipEffector
+    400238: Female_Ctrl_RightKneeEffector
+    400240: Female_Ctrl_RightLeg
+    400242: Female_Ctrl_RightShoulder
+    400244: Female_Ctrl_RightShoulderEffector
+    400246: Female_Ctrl_RightToeBase
+    400248: Female_Ctrl_RightUpLeg
+    400250: Female_Ctrl_RightWristEffector
+    400252: Female_Ctrl_Spine
+    400254: Female_Ctrl_Spine1
+    400256: Female_Ctrl_Spine2
+    2300000: Hair
+    2300002: Head
+    2300004: Legs
+    2300006: Torso
+    3300000: Hair
+    3300002: Head
+    3300004: Legs
+    3300006: Torso
     4300000: Torso
     4300002: Head
     4300004: Legs
