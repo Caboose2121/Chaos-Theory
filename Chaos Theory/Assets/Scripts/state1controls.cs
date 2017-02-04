@@ -5,6 +5,7 @@ public class state1controls : MonoBehaviour
 {
 	public bool inCollider = false;
 	public GameObject Player;
+	public float ladderHeight = 13.0f;
 
 
 	void OnTriggerEnter (Collider other)
@@ -17,17 +18,15 @@ public class state1controls : MonoBehaviour
 
 	void OnTriggerStay (Collider other)
 	{
-		if (Input.GetKeyDown ("2") && (inCollider = true)) 
-		{
-			Player.transform.Translate(0, 50, 0, Space.World);
+		if (Input.GetKeyDown ("2") && (inCollider = true)) {
+			Player.transform.Translate (0, 50, 0, Space.World);
 		}
 
-		if (Input.GetKeyDown ("3") && (inCollider = true)) 
-		{
-			Player.transform.Translate(0, 100, 0, Space.World);
-		}
+		if (Input.GetKeyDown ("3") && (inCollider = true)) {
+			Player.transform.Translate (0, 100, 0, Space.World);
 			
+		}
+
+
 	}
-
-
 }

@@ -10,10 +10,6 @@ public class FirstPersonController : MonoBehaviour
     public float jumpSpeed = 6.0F;
     float verticalVelocity = 0;
 	public bool jumping = false;
-	public float cameraZoom = 7;
-	public float cameraFOVMax = 60;
-	public float cameraFOVMin = 5;
-	public bool isZooming = false;
     CharacterController characterController;
 
 	public Camera mainCamera;
@@ -26,13 +22,6 @@ public class FirstPersonController : MonoBehaviour
 		}
 	}
 
-	IEnumerator Zoom()
-	{
-		mainCamera.fieldOfView = Mathf.Lerp (mainCamera.fieldOfView, cameraFOVMin, Time.deltaTime * cameraZoom);
-		yield return new WaitForSeconds (0.25f);
-		mainCamera.fieldOfView = Mathf.Lerp (mainCamera.fieldOfView, cameraFOVMax, Time.deltaTime * cameraZoom);
-	}
-			
 
 
 
@@ -83,15 +72,6 @@ public class FirstPersonController : MonoBehaviour
 
 		//Zoom feature when swapping states
 
-		if(Input.GetKeyDown("2"))
-		{
-			isZooming = !isZooming;
-		}
-
-		if(isZooming) 
-		{
-			StartCoroutine (Zoom());
-		}
 
 
 

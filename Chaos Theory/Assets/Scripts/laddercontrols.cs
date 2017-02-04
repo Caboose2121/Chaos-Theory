@@ -1,36 +1,29 @@
 ﻿using UnityEngine;
 using System.Collections;
+
 public class laddercontrols : MonoBehaviour 
 {
-	public GameObject ladderExitCollider;
-	public GameObject player;
-	public bool canClimbLadder = false;
-	public bool onLadder = false;
+	//put this on the collider for the ladder, not the model itself
 
-	void OnTriggerEnter (Collider other)
+	public bool inLadderCollider = false;
+	public GameObject Player; 
+
+
+	void OnTriggerEnter (Collider other) 
 	{
-		if (CompareTag ("Player"))
+		if (CompareTag ("Player")) 
 		{
-			canClimbLadder = true;
+			inLadderCollider = true;
 		}
 	}
+	
 
-	void OnTriggerStay ()
+
+	void OnTriggerStay (Collider other)
 	{
-		if (Input.GetKeyDown ("e") && (canClimbLadder = true))
+		if (Input.GetKeyDown ("E") && (inLadderCollider = true))
 			{
-			onLadder = true;
-			player.GetComponent<FirstPersonController> ().enabled = false;
+			Player.transform.Translate (0, 1, 0, Space.World);
 			}
-
-		if (Input.GetKey ("w") && (onLadder = true))
-		{
-			player.transform.Translate (0, 0.25f, 0);
-		}
-
-		if (Input.GetKey ("s") && (onLadder = true))
-		{
-			player.transform.Translate (0, -0.25f, 0);
-		}
 	}
 }
