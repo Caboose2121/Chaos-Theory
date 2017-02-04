@@ -1,0 +1,19 @@
+Needed
+----------------
+Walking/Running
+Ladder Climbing
+Rope Climbing
+Jump/Landing
+Warp
+Floor breaking
+Death sound
+Button push
+Wiring
+Door opening/closing
+Box 'bouncing'
+
+Voice Acting
+
+----------------
+Done
+----------------
